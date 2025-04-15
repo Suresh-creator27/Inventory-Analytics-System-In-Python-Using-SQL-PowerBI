@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore VScode settings
+.vscode/
+
+# Ignore Streamlit config and history
+.streamlit/
